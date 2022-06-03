@@ -30,5 +30,20 @@
             "urlImg":"https://live.staticflickr.com/65535/52097414399_3b2060ca19_m.jpg"
         }
 
+    ],
+     "banner":[
+        {
+            "id": 1,
+            "urlBanner": "https://live.staticflickr.com/65535/52119079947_10bf5ad267_h.jpg"
+        }, 
+        {
+            "id": 2,
+            "urlBanner": "https://live.staticflickr.com/65535/52120109706_3619633309_h.jpg"
+        }, 
+        {
+            "id": 3,
+            "urlBanner": "https://live.staticflickr.com/65535/52120610050_6650a8aa22_h.jpg"
+        }
+
     ]
 }
